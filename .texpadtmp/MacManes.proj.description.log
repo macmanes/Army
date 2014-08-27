@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  26 AUG 2014 16:41
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  27 AUG 2014 08:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -944,68 +944,45 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 26.
 
 
-LaTeX Font Warning: Font shape `EU1/TimesNewRoman(0)/bx/sc' undefined
-(Font)              using `EU1/TimesNewRoman(0)/bx/n' instead on input line 39.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--41
-
- []
-
-
 LaTeX Font Warning: Font shape `EU1/TimesNewRoman(0)/m/sc' undefined
-(Font)              using `EU1/TimesNewRoman(0)/m/n' instead on input line 42.
+(Font)              using `EU1/TimesNewRoman(0)/m/n' instead on input line 56.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--45
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
 
  []
 
-LaTeX Font Info:    Font shape `EU1/TimesNewRoman(0)/m/sl' in size <10.95> not available
-(Font)              Font shape `EU1/TimesNewRoman(0)/m/it' tried instead on input line 50.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 60.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 60.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 60.
 
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
 
 (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 ) [1
 
 
-] [1]
-
-Package wrapfig Warning: wrapfigure used inside a conflicting environment on input line 80.
-
-Invalid UTF-8 byte or sequence at line 85 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 85 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 85 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 85 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 85 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 85 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 85 replaced by U+FFFD.
+]
+Invalid UTF-8 byte or sequence at line 78 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 78 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 78 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 78 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 78 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 78 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 78 replaced by U+FFFD.
 File: exp_design_fig.eps Graphic file (type eps)
-<exp_design_fig.eps>
-./MacManes.proj.description.tex:87: Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.87   \hline
-             
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
+ <exp_design_fig.eps>
 Package mdframed Info: mdframed inside float 
- mdframed uses option nobreak mdframed on input line 89.
+ mdframed uses option nobreak mdframed on input line 82.
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 89.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 95.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 95.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 95.
-[2]
+ mdframed uses option nobreak mdframed on input line 82.
+ [2]
 
 Package natbib Warning: Citation `Bradnam:2013gx' on page 3 undefined on input line 101.
 
@@ -1015,7 +992,7 @@ Package natbib Warning: Citation `MacManes:2013ex' on page 3 undefined on input 
 LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 103.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [3] [4] (/Users/macmanes/Documents/army/.texpadtmp/MacManes.proj.description.bbl [1])
+) [3] [4] [5] (/Users/macmanes/Documents/army/.texpadtmp/MacManes.proj.description.bbl [1])
 
 Package natbib Warning: There were undefined citations.
 
@@ -1032,12 +1009,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 180.
  ) 
 Here is how much of TeX's memory you used:
- 23573 strings out of 493938
- 452591 string characters out of 6148857
- 492626 words of memory out of 5000000
- 26637 multiletter control sequences out of 15000+600000
- 7228 words of font info for 47 fonts, out of 8000000 for 9000
+ 23564 strings out of 493938
+ 452303 string characters out of 6148857
+ 489617 words of memory out of 5000000
+ 26632 multiletter control sequences out of 15000+600000
+ 7212 words of font info for 45 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 44i,11n,43p,1470b,472s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,6n,43p,1720b,470s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on /Users/macmanes/Documents/army/.texpadtmp/MacManes.proj.description.pdf (7 pages).
