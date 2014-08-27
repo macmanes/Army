@@ -1,60 +1,58 @@
 This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: MacManes.proj.description.aux
-The style file: model2-names.bst.bst
-Database file #1: formatted.bib.bib
-I was expecting a `,' or a `}'---line 25981 of file formatted.bib.bib
+The style file: /Users/macmanes/Documents/army/pnas.bst.bst
+Database file #1: /Users/macmanes/Documents/pero_transcriptome/biblio.bib.bib
+I was expecting a `,' or a `}'---line 26018 of file /Users/macmanes/Documents/pero_transcriptome/biblio.bib.bib
  : 
  : @article{Chesh:2012jd,
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 43556 of file formatted.bib.bib
+I was expecting a `,' or a `}'---line 43621 of file /Users/macmanes/Documents/pero_transcriptome/biblio.bib.bib
  : 
  : @article{Flatz:2010io,
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Bradnam:2013gx"
 Warning--I didn't find a database entry for "MacManes:2013ex"
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 25 entries,
-            2990 wiz_defined-function locations,
-            814 strings with 11682 characters,
-and the built_in function-call counts, 20746 in all, are:
-= -- 1403
-> -- 1202
-< -- 10
-+ -- 457
-- -- 432
-* -- 2540
-:= -- 3056
-add.period$ -- 75
-call.type$ -- 25
-change.case$ -- 268
-chr.to.int$ -- 25
-cite$ -- 25
-duplicate$ -- 1392
-empty$ -- 1316
-format.name$ -- 507
-if$ -- 3706
-int.to.chr$ -- 1
-int.to.str$ -- 1
-missing$ -- 318
-newline$ -- 140
-num.names$ -- 100
-pop$ -- 521
+You've used 26 entries,
+            1765 wiz_defined-function locations,
+            655 strings with 12206 characters,
+and the built_in function-call counts, 5378 in all, are:
+= -- 547
+> -- 166
+< -- 0
++ -- 64
+- -- 38
+* -- 428
+:= -- 870
+add.period$ -- 50
+call.type$ -- 26
+change.case$ -- 25
+chr.to.int$ -- 0
+cite$ -- 26
+duplicate$ -- 237
+empty$ -- 500
+format.name$ -- 48
+if$ -- 1151
+int.to.chr$ -- 0
+int.to.str$ -- 26
+missing$ -- 28
+newline$ -- 133
+num.names$ -- 26
+pop$ -- 36
 preamble$ -- 1
-purify$ -- 244
+purify$ -- 0
 quote$ -- 0
-skip$ -- 332
+skip$ -- 26
 stack$ -- 0
-substring$ -- 770
-swap$ -- 1183
+substring$ -- 501
+swap$ -- 54
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 219
+type$ -- 0
 warning$ -- 0
-while$ -- 115
-width$ -- 0
-write$ -- 362
+while$ -- 57
+width$ -- 28
+write$ -- 286
 (There were 2 error messages)
