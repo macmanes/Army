@@ -96,23 +96,6 @@ Huang Y, {et~al.}
 \newblock \emph{American Journal of Physiology-Renal Physiology}
   280:F794--F802.
 
-\bibitem{Maccallum:2009du}
-Maccallum I, {et~al.}
-\newblock (2009) {ALLPATHS 2: small genomes assembled accurately and with high
-  continuity from short paired reads}.
-\newblock \emph{Genome Biology} 10:R103.
-
-\bibitem{Simpson:2012ef}
-Simpson JT, Durbin R
-\newblock (2012) {Efficient \textit{de novo} assembly of large genomes using
-  compressed data structures.}
-\newblock \emph{Genome Research} 22:549--556.
-
-\bibitem{Miller:2008jx}
-Miller JR, {et~al.}
-\newblock (2008) {Aggressive assembly of pyrosequencing reads with mates.}
-\newblock \emph{Bioinformatics (Oxford, England)} 24:2818--2824.
-
 \bibitem{Parra:2007df}
 Parra G, Bradnam K, Korf I
 \newblock (2007) {CEGMA: a pipeline to accurately annotate core genes in
@@ -130,28 +113,15 @@ Bradnam KR, {et~al.}
   assembly in three vertebrate species.}
 \newblock \emph{GigaScience} 2:10.
 
-\bibitem{Haas:2013jq}
-Haas BJ, {et~al.}
-\newblock (2013) {\textit{De novo} transcript sequence reconstruction from
-  RNA-seq using the Trinity platform for reference generation and analysis.}
-\newblock \emph{Nature protocols} 8:1494--1512.
+\bibitem{Roberts:2012dh}
+Roberts A, Pachter L
+\newblock (2013) {Streaming fragment assignment for real-time analysis of
+  sequencing experiments.}
+\newblock \emph{Nature Methods} 10:71--73.
 
-\bibitem{Grabherr:2011jb}
-Grabherr MG, {et~al.}
-\newblock (2011) {Full-length transcriptome assembly from RNA-Seq data without
-  a reference genome.}
-\newblock \emph{Nature Biotechnology} 29:644--652.
-
-\bibitem{MacManes:2013ec}
-MacManes MD, Eisen MB
-\newblock (2013) {Improving transcriptome assembly through error correction of
-  high-throughput sequence reads.}
-\newblock \emph{PeerJ} 1:e113.
-
-\bibitem{Cantarel:2008jo}
-Cantarel BL, {et~al.}
-\newblock (2008) {MAKER: an easy-to-use annotation pipeline designed for
-  emerging model organism genomes.}
-\newblock \emph{Genome Research} 18:188--196.
+\bibitem{Anders:2012es}
+anders S, Reyes A, Huber W
+\newblock (2012) {Detecting differential usage of exons from RNA-seq data}.
+\newblock \emph{Genome Research} 22:2008--2017.
 
 \end{thebibliography}

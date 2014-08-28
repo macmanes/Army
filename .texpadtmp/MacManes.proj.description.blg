@@ -13,46 +13,45 @@ I was expecting a `,' or a `}'---line 43621 of file /Users/macmanes/Documents/pe
  : @article{Flatz:2010io,
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "MacManes:2013ex"
-You've used 26 entries,
+You've used 21 entries,
             1765 wiz_defined-function locations,
-            655 strings with 12206 characters,
-and the built_in function-call counts, 5378 in all, are:
-= -- 547
-> -- 166
+            619 strings with 9962 characters,
+and the built_in function-call counts, 4420 in all, are:
+= -- 442
+> -- 159
 < -- 0
-+ -- 64
-- -- 38
-* -- 428
-:= -- 870
-add.period$ -- 50
-call.type$ -- 26
-change.case$ -- 25
++ -- 60
+- -- 39
+* -- 349
+:= -- 727
+add.period$ -- 40
+call.type$ -- 21
+change.case$ -- 20
 chr.to.int$ -- 0
-cite$ -- 26
-duplicate$ -- 237
-empty$ -- 500
-format.name$ -- 48
-if$ -- 1151
+cite$ -- 21
+duplicate$ -- 192
+empty$ -- 402
+format.name$ -- 44
+if$ -- 941
 int.to.chr$ -- 0
-int.to.str$ -- 26
-missing$ -- 28
-newline$ -- 133
-num.names$ -- 26
-pop$ -- 36
+int.to.str$ -- 21
+missing$ -- 23
+newline$ -- 108
+num.names$ -- 21
+pop$ -- 31
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 26
+skip$ -- 21
 stack$ -- 0
-substring$ -- 501
-swap$ -- 54
+substring$ -- 390
+swap$ -- 44
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 57
-width$ -- 28
-write$ -- 286
+while$ -- 49
+width$ -- 23
+write$ -- 231
 (There were 2 error messages)
