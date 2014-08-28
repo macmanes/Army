@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  27 AUG 2014 15:33
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  28 AUG 2014 08:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -675,15 +675,15 @@ Package microtype Info: Loading generic settings for font family
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(76.78688pt, 460.72124pt, 76.78688pt)
-* v-part:(T,H,B)=(79.49698pt, 596.22748pt, 119.24553pt)
+* h-part:(L,W,R)=(73.71709pt, 466.86081pt, 73.7171pt)
+* v-part:(T,H,B)=(76.31885pt, 604.17282pt, 114.47832pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=460.72124pt
-* \textheight=596.22748pt
-* \oddsidemargin=4.51689pt
-* \evensidemargin=4.51689pt
-* \topmargin=-29.77301pt
+* \textwidth=466.86081pt
+* \textheight=604.17282pt
+* \oddsidemargin=1.4471pt
+* \evensidemargin=1.4471pt
+* \topmargin=-32.95114pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -804,7 +804,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  24112 strings out of 493938
  461561 string characters out of 6148857
- 599631 words of memory out of 5000000
+ 600601 words of memory out of 5000000
  27144 multiletter control sequences out of 15000+600000
  17527 words of font info for 47 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
