@@ -21,43 +21,43 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty journal in Li:2013wn
 You've used 54 entries,
             2990 wiz_defined-function locations,
-            1005 strings with 17422 characters,
-and the built_in function-call counts, 42371 in all, are:
-= -- 2997
+            1007 strings with 17415 characters,
+and the built_in function-call counts, 42510 in all, are:
+= -- 3013
 > -- 2228
 < -- 22
 + -- 849
 - -- 795
-* -- 5051
-:= -- 6206
+* -- 5071
+:= -- 6220
 add.period$ -- 161
 call.type$ -- 54
 change.case$ -- 534
 chr.to.int$ -- 54
 cite$ -- 55
-duplicate$ -- 2912
-empty$ -- 2804
+duplicate$ -- 2917
+empty$ -- 2817
 format.name$ -- 965
-if$ -- 7644
+if$ -- 7673
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 634
+missing$ -- 636
 newline$ -- 284
 num.names$ -- 216
-pop$ -- 1080
+pop$ -- 1077
 preamble$ -- 1
 purify$ -- 481
 quote$ -- 0
-skip$ -- 719
+skip$ -- 718
 stack$ -- 0
-substring$ -- 1770
-swap$ -- 2357
+substring$ -- 1801
+swap$ -- 2367
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 480
 warning$ -- 1
-while$ -- 251
+while$ -- 253
 width$ -- 0
-write$ -- 764
+write$ -- 765
 (There were 3 error messages)

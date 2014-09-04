@@ -231,8 +231,8 @@
   W.}, \bibinfo{author}{Wong, W.H.}, \bibinfo{year}{2009}.
 \newblock \bibinfo{title}{{Identifiability of isoform deconvolution from
   junction arrays and RNA-Seq.}}
-\newblock \bibinfo{journal}{Bioinformatics (Oxford, England)}
-  \bibinfo{volume}{25}, \bibinfo{pages}{3056--3059}.
+\newblock \bibinfo{journal}{Bioinformatics} \bibinfo{volume}{25},
+  \bibinfo{pages}{3056--3059}.
 %Type = Article
 \bibitem[{Huang et~al.(2001)Huang, Tracy, Walsberg, Makkinje, Fang, Brown and
   Van~Hoek}]{Huang:2001ti}
@@ -268,8 +268,8 @@
   \bibinfo{year}{2009}.
 \newblock \bibinfo{title}{{Statistical inferences for isoform expression in
   RNA-Seq}}.
-\newblock \bibinfo{journal}{Bioinformatics (Oxford, England)}
-  \bibinfo{volume}{25}, \bibinfo{pages}{1026--1032}.
+\newblock \bibinfo{journal}{Bioinformatics} \bibinfo{volume}{25},
+  \bibinfo{pages}{1026--1032}.
 %Type = Article
 \bibitem[{Koepsell and Endou(2004)}]{Koepsell:2004kg}
 \bibinfo{author}{Koepsell, H.}, \bibinfo{author}{Endou, H.},
@@ -302,7 +302,7 @@
   \bibinfo{year}{2013}.
 \newblock \bibinfo{title}{{Inference of alternative splicing from RNA-Seq data
   with probabilistic splice graphs}}.
-\newblock \bibinfo{journal}{Bioinformatics (Oxford, England)} .
+\newblock \bibinfo{journal}{Bioinformatics} .
 %Type = Article
 \bibitem[{Li(2013)}]{Li:2013wn}
 \bibinfo{author}{Li, H.}, \bibinfo{year}{2013}.
@@ -356,8 +356,9 @@
 \bibitem[{Nielsen and Agre(1995)}]{Nielsen:1995cb}
 \bibinfo{author}{Nielsen, S.}, \bibinfo{author}{Agre, P.},
   \bibinfo{year}{1995}.
-\newblock \bibinfo{title}{{The aquaporin family of water channels in kidney.}}
-\newblock \bibinfo{journal}{Kidney international} .
+\newblock \bibinfo{title}{{The aquaporin family of water channels in kidney}}.
+\newblock \bibinfo{journal}{Kidney international} \bibinfo{volume}{48},
+  \bibinfo{pages}{1057--1068}.
 %Type = Article
 \bibitem[{Nielsen et~al.(1995)Nielsen, Chou, Marples, Christensen, Kishore and
   Knepper}]{Nielsen:1995uq}
@@ -398,7 +399,7 @@
   \bibinfo{year}{2013}.
 \newblock \bibinfo{title}{{Solute carriers as drug targets: current use,
   clinical trials and prospective.}}
-\newblock \bibinfo{journal}{Molecular aspects of medicine}
+\newblock \bibinfo{journal}{Molecular Aspects of Medicine}
   \bibinfo{volume}{34}, \bibinfo{pages}{702--710}.
 %Type = Article
 \bibitem[{Roberts and Pachter(2013)}]{Roberts:2012dh}
