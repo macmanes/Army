@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  4 SEP 2014 11:34
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  4 SEP 2014 12:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -44314,77 +44314,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 204--205
  []
 
 File: slc.eps Graphic file (type eps)
-<slc.eps>
-Package mdframed Info: mdframed inside float 
- mdframed uses option nobreak mdframed on input line 217.
-Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 217.
-
-Overfull \hbox (13.14183pt too wide) in paragraph at lines 220--221
-[][]\EU1/TimesNewRoman(0)/m/n/12 Expected Out-
- []
-
-
-Overfull \hbox (2.193pt too wide) in paragraph at lines 220--221
-\EU1/TimesNewRoman(0)/m/n/12 come: Upon com-
- []
-
-
-Underfull \hbox (badness 3209) in paragraph at lines 220--221
-\EU1/TimesNewRoman(0)/m/n/12 we will have a
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 220--221
-\EU1/TimesNewRoman(0)/m/n/12 synthetic under-
- []
-
-
-Underfull \hbox (badness 7451) in paragraph at lines 220--221
-\EU1/TimesNewRoman(0)/m/n/12 standing of the
- []
-
-
-Overfull \hbox (8.6969pt too wide) in paragraph at lines 220--221
-\EU1/TimesNewRoman(0)/m/n/12 physiologic and ge-
- []
-
-
-Overfull \hbox (6.693pt too wide) in paragraph at lines 220--221
-\EU1/TimesNewRoman(0)/m/n/12 nomics patterns as-
- []
-
-
-Overfull \hbox (1.34924pt too wide) in paragraph at lines 220--221
-\EU1/TimesNewRoman(0)/m/n/12 lation required for
- []
-
-
-Overfull \hbox (16.68974pt too wide) in paragraph at lines 220--221
-\EU1/TimesNewRoman(0)/m/n/12 environments. These
- []
-
-
-Underfull \hbox (badness 7451) in paragraph at lines 220--221
-\EU1/TimesNewRoman(0)/m/n/12 data will allow
- []
-
-
-Overfull \hbox (6.57074pt too wide) in paragraph at lines 220--221
-\EU1/TimesNewRoman(0)/m/n/12 nomic regions, iso-
- []
-
-
-Overfull \hbox (2.56293pt too wide) in paragraph at lines 220--221
-\EU1/TimesNewRoman(0)/m/n/12 forms, and methy-
- []
-
-
+<slc.eps> [10]
 Underfull \hbox (badness 10000) in paragraph at lines 220--221
 
  []
 
-[10]
 Missing character: There is no ’ in font ectt1000!
 Missing character: There is no ’ in font ectt1000!
 
@@ -44397,12 +44331,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 224--225
 
  []
 
-
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 226--227
 
  []
 
-[11]
+
 Underfull \hbox (badness 10000) in paragraph at lines 228--229
 
  []
