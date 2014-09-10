@@ -7,12 +7,12 @@ Repeated entry---line 1429 of file /Users/macmanes/Documents/army/biblio.bib.bib
  : @article{Nielsen:1995uq
  :                        ,
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 26027 of file /Users/macmanes/Documents/army/biblio.bib.bib
+I was expecting a `,' or a `}'---line 26043 of file /Users/macmanes/Documents/army/biblio.bib.bib
  : 
  : @article{Chesh:2012jd,
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 43651 of file /Users/macmanes/Documents/army/biblio.bib.bib
+I was expecting a `,' or a `}'---line 43685 of file /Users/macmanes/Documents/army/biblio.bib.bib
  : 
  : @article{Flatz:2010io,
 (Error may have been on previous line)
@@ -21,43 +21,43 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty journal in Li:2013wn
 You've used 54 entries,
             2990 wiz_defined-function locations,
-            1007 strings with 17415 characters,
-and the built_in function-call counts, 42510 in all, are:
-= -- 3013
+            1010 strings with 17376 characters,
+and the built_in function-call counts, 42649 in all, are:
+= -- 3029
 > -- 2228
 < -- 22
 + -- 849
 - -- 795
-* -- 5071
-:= -- 6220
+* -- 5091
+:= -- 6234
 add.period$ -- 161
 call.type$ -- 54
 change.case$ -- 534
 chr.to.int$ -- 54
 cite$ -- 55
-duplicate$ -- 2917
-empty$ -- 2817
+duplicate$ -- 2922
+empty$ -- 2830
 format.name$ -- 965
-if$ -- 7673
+if$ -- 7702
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 636
+missing$ -- 638
 newline$ -- 284
 num.names$ -- 216
-pop$ -- 1077
+pop$ -- 1074
 preamble$ -- 1
 purify$ -- 481
 quote$ -- 0
-skip$ -- 718
+skip$ -- 717
 stack$ -- 0
-substring$ -- 1801
-swap$ -- 2367
+substring$ -- 1832
+swap$ -- 2377
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 480
 warning$ -- 1
-while$ -- 253
+while$ -- 255
 width$ -- 0
-write$ -- 765
+write$ -- 766
 (There were 3 error messages)

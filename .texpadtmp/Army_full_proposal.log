@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  10 SEP 2014 15:13
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  10 SEP 2014 16:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -44217,38 +44217,28 @@ Overfull \hbox (14.01917pt too wide) in paragraph at lines 158--159
  []
 
 
-Underfull \hbox (badness 1859) in paragraph at lines 158--159
-\EU1/TimesNewRoman(0)/m/n/12 notype which is
+Underfull \hbox (badness 1077) in paragraph at lines 158--159
+\EU1/TimesNewRoman(0)/m/n/12 to human health
  []
 
 
-Overfull \hbox (0.68713pt too wide) in paragraph at lines 158--159
-\EU1/TimesNewRoman(0)/m/n/12 relevant to human
+Overfull \hbox (7.33557pt too wide) in paragraph at lines 158--159
+\EU1/TimesNewRoman(0)/m/n/12 treme temperatures
  []
 
 
-Underfull \hbox (badness 1087) in paragraph at lines 158--159
-\EU1/TimesNewRoman(0)/m/n/12 health and well-
+Overfull \hbox (7.36877pt too wide) in paragraph at lines 158--159
+\EU1/TimesNewRoman(0)/m/n/12 way in which phys-
  []
 
 
-Overfull \hbox (4.54926pt too wide) in paragraph at lines 158--159
-\EU1/TimesNewRoman(0)/m/n/12 ness, extreme tem-
+Overfull \hbox (6.02307pt too wide) in paragraph at lines 158--159
+\EU1/TimesNewRoman(0)/m/n/12 iological processes
  []
 
 
-Overfull \hbox (5.99963pt too wide) in paragraph at lines 158--159
-\EU1/TimesNewRoman(0)/m/n/12 peratures represent
- []
-
-
-Underfull \hbox (badness 7468) in paragraph at lines 158--159
-\EU1/TimesNewRoman(0)/m/n/12 another way in
- []
-
-
-Overfull \hbox (4.01526pt too wide) in paragraph at lines 158--159
-\EU1/TimesNewRoman(0)/m/n/12 ical processes may
+Overfull \hbox (7.0094pt too wide) in paragraph at lines 158--159
+\EU1/TimesNewRoman(0)/m/n/12 may be challenged.
  []
 
 
@@ -44322,8 +44312,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 223--224
 
  []
 
-Missing character: There is no ’ in font ectt1000!
-Missing character: There is no ’ in font ectt1000!
 
 Underfull \hbox (badness 10000) in paragraph at lines 225--226
 
@@ -44383,6 +44371,6 @@ Here is how much of TeX's memory you used:
  26717 multiletter control sequences out of 15000+600000
  7217 words of font info for 46 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 44i,7n,43p,73088b,522s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,7n,43p,73088b,524s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on /Users/macmanes/Documents/army/.texpadtmp/Army_full_proposal.pdf (17 pages).
